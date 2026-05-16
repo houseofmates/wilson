@@ -9,7 +9,7 @@ feed, pet, play, read, clean, and put wilson to bed — or watch him slowly fade
 
 <h1 align="center">what is it</h1>
 
-wilson is a tamagotchi-style pet game starring a pixel-art dr. james wilson from house md.
+wilson is a tamagotchi-style pet game starring dr. james wilson from house md.
 the goal is simple: keep his four stats — hunger, happiness, cleanliness, and energy — from bottoming out.
 each stat decays on a timer. when things get critical, wilson lets you know.
 
