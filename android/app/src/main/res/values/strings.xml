@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">wilson</string>
+    <string name="title_activity_main">wilson</string>
+    <string name="package_name">com.example.wilson</string>
+    <string name="custom_url_scheme">com.example.wilson</string>
+</resources>

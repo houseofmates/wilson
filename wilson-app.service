@@ -1,0 +1,15 @@
+[Unit]
+Description=Wilson Vite Dev Server
+After=network.target
+
+[Service]
+Type=simple
+User=house
+WorkingDirectory=/home/house/Documents/docker/wilson
+Environment="NODE_ENV=development"
+ExecStart=/usr/bin/npm run dev:4053
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
