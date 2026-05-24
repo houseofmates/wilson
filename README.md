@@ -67,4 +67,4 @@ production assets are in `dist/`. point nginx or any static host at that folder 
 
 <h1 align="center">license</h1>
 
-unlicensed — do whatever you want with it.
+[mates license](license)
