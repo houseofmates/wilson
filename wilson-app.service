@@ -5,7 +5,7 @@ After=network.target
 [Service]
 Type=simple
 User=house
-WorkingDirectory=/home/house/Documents/docker/wilson
+WorkingDirectory=/home/house/projects/wilson
 Environment="NODE_ENV=development"
 ExecStart=/usr/bin/npm run dev:4053
 Restart=always
